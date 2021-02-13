@@ -1,6 +1,6 @@
 # Client Template - React.js
 
-use React(hooks) , useContext , material ui , react-router-dom
+use React(hooks) , useContext(state management) , material ui , react-router-dom
 
 ---
 
